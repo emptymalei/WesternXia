@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Data Collector@WesternXiaTimeline</title>
+        <title>Data@WesternXiaTimeline</title>
         
         <!-- The stylesheet -->
        
@@ -35,13 +35,18 @@
     
     <body class="framePage">
 
-        <h1>Data Collector</h1>
-<section>
-<ul>
+        <h1>Data</h1>
 
-<li><a href="http://weibo.com/emptymalei" target="_blank">星河逍遥</a></li>
+<section>
+<p> We have two data collectors now.
+<ul>
+<li><a href="http://weibo.com/emptymalei" target="_blank">@星河逍遥</a></li>
 <li><a href="http://weibo.com/liangchen0802" target="_blank">@自由的大梁</a></li>
 </ul>
+</p>
+<p>
+
+</p>
 </section>
         
     </body>
