@@ -15,7 +15,7 @@ This is the web show of Western Xia repo.
 
 呈現數據分以下幾步：
 
-* 從史書中摘錄。將事件的時間（公元紀年和「年號紀年」）、時間的描述、參考文獻、備註（例如關於該事件的爭議等等）這些列舉出來。
+* 從史書中摘錄。將事件的時間（公元紀年和「年號紀年」）、事件的描述、參考文獻、備註（例如關於該事件的爭議等等）這些列舉出來。
 * 將幾個人的記錄合併，並按照時間順序排列。
 * 製作成爲 JSON 格式的數據。如果不習慣文本編輯，可以使用[http://emptymalei.github.com/jsoneditoronline](http://emptymalei.github.com/jsoneditoronline)來輔助編輯。或者客戶端的 JSON 編輯軟件。
 * 於原有的數據合併，並上載到[ github 項目](http://emptymalei.github.com/WesternXia/) 的 gh-pages 分支的 timeline/data 文件夾中。
