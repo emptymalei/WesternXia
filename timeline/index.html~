@@ -49,7 +49,7 @@ Timeline Framework：
      height: "96%",
      source: 'data/WesternXiaJSONP.jsonp',
      hash_bookmark:      true,
-     lang: 'zh-tw'
+     lang:               'zh-tw'
     }
   </script>
   <script type="text/javascript" src="js/storyjs-embed.js"></script>

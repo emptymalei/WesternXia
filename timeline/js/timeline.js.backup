@@ -5732,7 +5732,6 @@ if (typeof VMM.Slider != 'undefined') {
 					if (data.type != "start") {
 						var st	= VMM.Date.prettyDate(data.startdate);
 						var en	= VMM.Date.prettyDate(data.enddate);
-						var st2 = VMM.
 						var tag	= "";
 						/* TAG / CATEGORY
 						================================================== */
@@ -5741,15 +5740,13 @@ if (typeof VMM.Slider != 'undefined') {
 						}
 						
 						if (st != en) {
-							c.text += VMM.createElement("h2", st + " &mdash; " + en + tag , "date");
+							c.text += VMM.createElement("h2", st + " &mdash; " + en + tag, "date");
 						} else {
 							c.text += VMM.createElement("h2", st + tag, "date");
 						}
 					}
 				}
 			}
-		
-
 			
 			/* HEADLINE
 			================================================== */

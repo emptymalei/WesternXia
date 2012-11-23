@@ -89,7 +89,7 @@ storyjs_jsonp_data = {
                 "text":"<h6>大安五年（元豐二年）</h6><p>六月，夏兵從滿堂川打入大會平。</p>",
                 "asset":
                 {
-                    "media":"<p><span>《宋史》卷486P14010</span><br>「元豐二年六月，夏人自滿堂川入大會平，殺防田人馬，兵官李浦等逼逐出塞。九月，綏德把截楊永慶聲徼循邊而掩取蕃部首級，詐言斬犯邊人，詔毀永慶出身文字，送西京編管。」</p>",
+                    "media":"<p><span>《宋史》卷486P14010</span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
                     "credit":"",
                     "caption":""
                 }
