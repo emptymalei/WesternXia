@@ -7,12 +7,101 @@ storyjs_jsonp_data = {
 		"startDate":"1030",
         "date": [
             {
-                "startDate":"1032",
-                "headline":"李元昊即位",
-                "text":"<p>夏天，李德明去世，李元昊即位。</p>",
+                "startDate":"1031",
+                "headline":"李元昊承襲定難軍節度使",
+                "text":"<h6>（宋・天聖九年）</h6><p>夏天，李德明去世，李元昊承襲父位。</p>",
                 "asset":
                 {
-                    "media":"<p><span>《宋會要輯稿》卷33，禮41，12b</span></p>",
+                    "media":"<p><span>《宋史》卷485P13992</span>「天聖……九年十月，德明卒，時年五十一，追諡曰光聖皇帝，廟號太宗，墓號嘉陵。……子曩霄立。」</p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1032",
+		"endDate":"1033",
+                "headline":"元昊更名並進行改革",
+                "text":"<h6>（宋・天聖十年 - 宋・明道二年）</h6><p>李元昊更姓氏爲「嵬名」，並進行多項改革。</p>",
+                "asset":
+                {
+                    "media":"<p><span>《宋史》卷485P13993</span><br>「既襲封，明號令，以兵法勒諸部。始衣白窄衫，氈冠紅裏，冠頂後垂紅結綬，自號嵬名吾祖。……初，宋改元明道，元昊避父諱，稱顯道於國中。」</p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1034",
+                "headline":"夏攻環慶路，夏母去世，元昊起兵數勝",
+                "text":"<h6>開運元年/廣運元年（景祐元年）</h6><p>夏國攻環慶路。元昊母親衛慕氏去世。慶州柔遠砦攻破後橋諸堡，元昊起兵報仇，勝敵於龍馬嶺，後宋增援兵，元昊依然戰勝。</p>",
+                "asset":
+                {
+                    "media":"<p><span>《宋史》卷485P13994</span><br>「景祐元年，遂攻環慶路，殺掠居人，下詔約束之。是歲，改元開運，逾月，或告以石晉敗亡年號也，乃改廣運。元年，母衛慕氏死，遣使來告哀，起複鎮軍大將軍、左金吾衛上將軍，員外置同正員。以內殿崇班、閣門祗候王中庸為致祭使，起居舍人郭勸為吊贈兼起複官告使。慶州柔遠砦蕃部巡檢嵬通攻破後橋諸堡，於是元昊稱兵報仇。緣邊都巡檢楊遵、柔遠砦監押盧訓以兵七百與戰于龍馬嶺，敗績。環慶路都監齊宗矩、走馬承受趙德宣、寧州都監王文援之，次節義峰，伏兵發，執宗矩，久之始放歸。」</p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
                     "credit":"",
                     "caption":""
                 }
@@ -75,7 +164,7 @@ storyjs_jsonp_data = {
             {
                 "startDate":"1072",
                 "headline":"武勝戰役夏國敗",
-                "text":"<h6>天賜禮盛國慶四年（熙寧四年）</h6><p>數次戰役。<br>正月，夏國钤轄結勝戰降；<br><br>六月，夏國遣返荔原堡逃跑的「熟戶」（歸順程度較高的少數民族）。<br><br>閏七月，與宋在武勝爭戰，夏兵<u>瞎藥</u>棄城，宋兵佔領武勝。<br><br>十二月，派使者取宋用馬換《大藏經》，宋賜經還馬。</p>",
+                "text":"<h6>天賜禮盛國慶四年（熙寧四年）</h6><p>正月，夏國钤轄<u>結勝</u>戰降；<br>六月，夏國遣返荔原堡逃跑的「熟戶」（歸順程度較高的少數民族）。<br>閏七月，與宋在武勝爭戰，夏兵<u>瞎藥</u>棄城，宋兵佔領武勝。<br>十二月，派使者取宋用馬換《大藏經》，宋賜經還馬。</p>",
                 "asset":
                 {
                     "media":"<p><span>《宋史》卷486P14009</span><br>「五年正月，夏鈐轄結勝為麟州步將王文郁戰降，授供奉官。久之，謀竄歸，事覺，詔聽其去。六月，夏人還荔原堡逃背熟戶嵬通等七十八人。閏七月，遣部將景思立、王存以涇原兵出南路，王韶由東谷徑趨武勝，未至十餘裏，逢夏人戰，遂至其城，瞎藥棄城夜遁，大首領曲撒四王阿南珂出奔，乃城武勝。十二月，遣使進馬贖《大藏經》，詔賜之而還其馬。」</p>",
@@ -85,11 +174,11 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate":"1079",
-                "headline":"",
+                "headline":"大會平戰役",
                 "text":"<h6>大安五年（元豐二年）</h6><p>六月，夏兵從滿堂川打入大會平。</p>",
                 "asset":
                 {
-                    "media":"<p><span>《宋史》卷486P14010</span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "media":"<p><span>《宋史》卷486P14010</span><br>「元豐二年六月，夏人自滿堂川入大會平，殺防田人馬，兵官李浦等逼逐出塞。九月，綏德把截楊永慶聲徼循邊而掩取蕃部首級，詐言斬犯邊人，詔毀永慶出身文字，送西京編管。」</p>",
                     "credit":"",
                     "caption":""
                 }
