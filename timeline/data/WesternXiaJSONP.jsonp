@@ -20,7 +20,7 @@ storyjs_jsonp_data = {
             {
                 "startDate":"1032",
 		"endDate":"1033",
-                "headline":"元昊更名並進行改革",
+                "headline":"元昊更姓並進行改革",
                 "text":"<h6>（宋・天聖十年 - 宋・明道二年）</h6><p>李元昊更姓氏爲「嵬名」，並進行多項改革。</p>",
                 "asset":
                 {
@@ -163,133 +163,67 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate":"1061",
+                "headline":"諒祚請漢服迎使者",
+                "text":"<h6>奲都五年（嘉祐六年）</h6><p>諒祚上書宋廷說喜歡中國衣冠，請以中國衣冠迎使者。宋廷同意。</p>",
+                "asset":
+                {
+                    "media":"<p><span>《宋史》卷485P14001</span><br>「嘉祐六年，上書自言慕中國衣冠，明年當以此迎使者。詔許之。」</p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1062",
+                "headline":"諒祚改監軍司，以馬易宋典籍",
+                "text":"<h6>奲都六年（嘉祐七年）</h6><p>諒祚重改監軍司。從宋廷取得九經。</p>",
+                "asset":
+                {
+                    "media":"<p><span>《宋史》卷485P14002</span><br>「明年，又改西壽監軍司為保泰軍，石州監軍司為靜塞軍，韋州監軍司為祥祐軍，左廂監軍司為神勇軍。遣人獻方物，稱宣徽南院使，詔諭非陪臣所宜稱，戒其僭擬，使遵誓詔。表求太宗禦制詩章隸書石本，且進馬五十匹，求《九經》、《唐史》、《冊府元龜》及宋正至朝賀儀，詔賜《九經》，還所獻馬。」</p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1064",
+                "headline":"夏使節與宋廷衝突，夏國攻地掠殺人畜",
+                "text":"<h6>拱化二年（治平元年）</h6><p>夏國請求恢復與宋邊境的榷場，宋廷不同意。夏使者去宋廷祝賀英宗即位時，夏使者因爲禮儀問題與宋官員起衝突。秋天，夏國攻打秦鳳、涇源，掠殺人畜。後來獻表稱之所以起戰事是宋邊吏的問題。</p>",
+                "asset":
+                {
+                    "media":"<p><span>《宋史》卷485P14002</span><br>「治平初，求複榷場，不許。既而遣吳宗等來賀英宗即位，詔令門見，使者不從。至順天門，且欲佩魚及儀物自從，引伴高宜禁之，不可，留止廄置一夕，絕其供饋。宗語不遜，宜折之，使如故事，良久，乃聽入。及賜食殿門，又訴于押伴張覲，詔命還赴延州與宜辨。宗度理屈，不復置對。遂詔諒祚懲約之。秋，夏人出兵秦鳳、涇原，抄熟戶，擾邊塞弓箭手，殺掠人畜以萬計。……遣文思副使王無忌齎詔問之，諒祚遷延弗受，已而因賀正使荔茂先獻表，歸罪宋邊吏。」</p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1066",
+                "headline":"",
+                "text":"<h6>拱化四年（治平三年）</h6><p>夏國大舉進攻大順城，同時還圍攻柔遠砦等，但是被州兵、熟戶和蕃官聯合起來擊退了。三月，夏國獻方物向宋廷謝罪。</p>",
+                "asset":
+                {
+                    "media":"<p><span>《宋史》卷485P14002</span><br>「三年，遂大舉攻大順城，分兵圍柔遠砦，燒屈乞村，柵段木嶺，州兵、熟戶、蕃官趙明合擊退之。遣西京左藏庫副使何次公詰之。三月，乃獻方物謝罪，賜絹五百匹、銀五百兩。」</p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+		{
                 "startDate":"",
                 "headline":"",
                 "text":"<p></p>",
                 "asset":
                 {
                     "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"",
-                "headline":"",
-                "text":"<p></p>",
-                "asset":
-                {
-                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1033",
-                "headline":"李元昊更姓爲嵬名",
-                "text":"<p>李元昊更姓氏爲「嵬名」，並進行多項改革。</p>",
-                "asset":
-                {
-                    "media":"<p><span>《宋史》卷485P13993</span><br>「既襲封，明號令，以兵法勒諸部。始衣白窄衫，氈冠紅裏，冠頂後垂紅結綬，自號<u>嵬名吾祖</u>。……初，宋改元明道，<u>元昊</u>避父諱，稱顯道於國中。」</p>",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"1067",
-                "headline":"諒祚去世，秉常即位",
-                "text":"<p>十二月，諒祚去世。諒祚長子秉常即位，此時秉常僅七歲。</p>",
+                "headline":"种諤謀綏州，夏國殺宋官；諒祚去世，秉常即位",
+                "text":"<h6>拱化五年（治平四年）</h6><p>冬天，种諤用計取了綏州。爲報復，諒祚殺害宋朝官員。之後便起戰事。<br>十二月，諒祚去世。諒祚長子秉常即位，此時秉常僅七歲。</p>",
                 "asset":
                 {
-                    "media":"<p><span>《宋史》卷485P14003</span><br> 「十二月，<u>諒祚</u>殂，年二十一。在位二十年，改元延嗣寧國一年，天佑垂聖三年，福聖承道四年，奲都六年，拱化五年。謚曰昭英皇帝，廟號毅宗，墓號安陵。」</p><p><span>《劍橋》P222</span><br>諒祚「很可能是在戰鬥中受傷而死去的」。還提到諒祚去世時只有20遂，需增加文獻。</p><p><span>《宋史》卷485P14003</span><br>「……子秉常立。」</p><p><span>《宋史》卷486P14007</span><br>「秉常……治平四年冬即位，時年七歲，梁太后攝政。」</p>",
+                    "media":"<p><span>《宋史》卷485P14002</span><br>「神宗即位……冬，種諤取綏州，因發兵夜掩嵬名山帳，脅降之。諒祚乃詐為會議，誘知保安軍楊定、都巡檢侍其臻等殺之，邊吏以聞，命韓琦知永興軍，經略西方。諒祚錮送殺定者六宅使李崇貴、右侍禁韓道善及虜去定子仲通。」</p><p><span>《宋史》卷485P14003</span><br> 「十二月，<u>諒祚</u>殂，年二十一。在位二十年，改元延嗣寧國一年，天佑垂聖三年，福聖承道四年，奲都六年，拱化五年。謚曰昭英皇帝，廟號毅宗，墓號安陵。」</p><p><span>《劍橋》P222</span><br>諒祚「很可能是在戰鬥中受傷而死去的」。還提到諒祚去世時只有20遂，需增加文獻。</p><p><span>《宋史》卷485P14003</span><br>「……子秉常立。」</p><p><span>《宋史》卷486P14007</span><br>「秉常……治平四年冬即位，時年七歲，梁太后攝政。」</p>",
                     "credit":"",
                     "caption":""
                 }
@@ -350,6 +284,28 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate":"1081",
+                "headline":"李清謀劃還地與宋，事敗太后奪秉常位，种諤伐夏，夏國堅壁清野",
+                "text":"<h6>大安七年（元豐四年）</h6><p>四月，西夏漢族將軍李清，與秉常謀劃要把河的南邊的地方（劍橋P223稱，鄂爾多斯南部地區）歸還給宋，但是夏太后知道後，殺了李清，並且奪取了秉常的皇位。</p><p>种諤向宋廷進言此時攻夏，稱「千載一時之機會」。於是宋廷討夏。大入夏境，所幸夏梁太后接受堅壁清野的建議，最終宋師並未攻下夏國。</p>",
+                "asset":
+                {
+                    "media":"<p><span>《宋史》卷486P14010</span><br>「四年四月，有李將軍清者，本秦人，說秉常以河南地歸宋，國母知之，遂誅清而奪秉常政。延總管種諤乃疏秉常遇弑，國內亂，宜興師問罪，此千載一時之會。帝然之，遂遣王中正往延、環慶，稱詔募禁兵，從者將之。詔熙河李憲等，以秉常見囚，大舉征夏……初，夏人聞宋大舉，梁太后問策于廷，諸將少者盡請戰，一老將獨曰：「不須拒之，但堅壁清野，縱其深入，聚勁兵于靈、夏而遣輕騎抄絕其饋運，大兵無食，可不戰而困也。」梁後從之，宋師卒無功。」</p><p><span>《劍橋》P223</span><br>夏惠宗李秉常被囚禁在了離皇宮五里的一所城堡中。需要參考文獻。</p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+           {
                 "startDate":"",
                 "headline":"",
                 "text":"<p></p>",
@@ -372,6 +328,39 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"",
+                "headline":"",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"<p><span>  </span><br> </p>  <p><span>  </span><br>   </p>  <p><span> </span><br>  </p><p><span>  </span><br>  </p>",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+                {
                 "startDate":"1227",
                 "headline":"滅國",
                 "text":"<p>夏末帝李睍被困中興府，投降蒙古，西夏滅國。</p>",
