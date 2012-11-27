@@ -9,6 +9,8 @@ $(function(){
 
 	$('#b3').frameWarp();
 
+	$('#b4').frameWarp();
+
 	$('#bgithub').frameWarp({
 		url : 'http://emptymalei.github.com/WesternXia/',
 		cache:false
